@@ -3,4 +3,5 @@ ee
 geemap
 streamlit
 earthengine-api
+StringIO 
 
